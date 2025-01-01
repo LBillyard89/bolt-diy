@@ -1,0 +1,11 @@
+{
+  "name": "bolt-diy",
+  "version": "1.0.0",
+  "description": "Bolt DIY project",
+  "main": "index.js",
+  "scripts": {
+    "build": "echo 'Building project...'"
+  },
+  "author": "",
+  "license": "ISC"
+}
